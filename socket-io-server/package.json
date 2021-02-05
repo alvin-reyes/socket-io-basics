@@ -1,0 +1,25 @@
+{
+  "name": "socket-io-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvin-reyes/socketio-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvin-reyes/socketio-basics/issues"
+  },
+  "homepage": "https://github.com/alvin-reyes/socketio-basics#readme",
+  "dependencies": {
+    "socket.io": "^3.1.1",
+    "socket.io-client": "^3.1.1"
+  }
+}
